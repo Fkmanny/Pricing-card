@@ -192,8 +192,10 @@ h2{
         margin-left: 53%;
     }
     .patrick{
-        margin: 20px 0 20px 0;
+        margin: 20px 0;
     }
-    
+    .kira, .patrick, .daniel, .jean, .jonathan{
+        margin-right: 0;
+    }
     
 }
