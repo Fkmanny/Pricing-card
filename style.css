@@ -185,8 +185,8 @@ h2{
     .patrick{
         margin: 20px 20px 20px 0;
     }
-    .kira{
-        margin-right: 20px;
+    .kira, .patrick, .daniel, .jean, .jonathan{
+        margin-right: 0;
     }
     
 }
